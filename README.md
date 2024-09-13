@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding knowledge
 - 🌱 I’m currently learning BCA second year
 - 💞️ I’m looking to collaborate on C++ projects
-- 📫 How to reach me email me on numbershussain@gmail.com
+- 📫 How to reach me email me on contacthussain.b@gmail.com
 
 <!---
 Hussainbhanpura/Hussainbhanpura is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
