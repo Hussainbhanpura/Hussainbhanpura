@@ -1,4 +1,4 @@
-### Hi there, I'm Arjyo Chakraborty 👋 
+### Hi there, I'm Hussain Bhanpurawala 👋 
 <p align="center"><img src="https://user-images.githubusercontent.com/77008381/145186736-1d1a4508-60a3-4169-acb7-ede41a7c85d6.png"></p>
 
 
@@ -7,18 +7,18 @@
 <br>
 
 
-- 🔭 I am honing my dev and python skills.
-- 🌱 I am currently learning Python/Django 
+- 🔭 I am honing my dev and DSA skills.
+- 🌱 I am currently learning MERN Stack 
 - 👯 I’m looking to collaborate in web dev projects
 - 💬 Ask me About Web development and Web Technolgies.
-- 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arjyo77@gmail.com)](mailto:arjyo77@gmail.com) 
+- 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contacthussain.b@gmail.com)](mailto:contacthussain.b@gmail.com) 
 - ⚡ Fun fact: I love to go to the gym
-- Profile views: ![](https://komarev.com/ghpvc/?username=arjyo851)
+- Profile views: ![](https://komarev.com/ghpvc/?username=hussainbhanpura)
 
 <br>
 <h2>📊 Github Stats</h2>
 
-![Arjyo's github stats](https://github-readme-stats.vercel.app/api?username=arjyo851&theme=onedark)
+![Arjyo's github stats](https://github-readme-stats.vercel.app/api?username=hussainbhanpura&theme=onedark)
 
 <br>
 
